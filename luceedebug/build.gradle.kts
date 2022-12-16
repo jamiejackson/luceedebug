@@ -160,6 +160,8 @@ tasks.register("field-visitor") {
     }
 }
 
+// TODO: remove this fake change
+
 // tasks.named<Test>("test") {
 //     // Use JUnit Platform for unit tests.
 //     useJUnitPlatform()
